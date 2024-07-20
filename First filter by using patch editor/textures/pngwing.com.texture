@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "pngwing.com",
+  "identifier": "texture:75347-48503b6d-7b7f-4988-a934-f75fb47fcdf8",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "227186450d46746d07a4cb4db27830f9",
+  "assetLocator": "textures/pngwing.com.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1000,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 610,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "227186450d46746d07a4cb4db27830f9",
+      "colorCount": 4309,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 4.572270193801405,
+      "pixelsHigh": 1000,
+      "pixelsWide": 610
+    }
+  ]
+}
